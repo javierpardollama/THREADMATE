@@ -1,4 +1,4 @@
-# Treadmate.Client
+# Threadmate.Client
 
 This project was generated with [Node.JS](https://nodejs.dev/en/learn/) version 14.20.0.
 
