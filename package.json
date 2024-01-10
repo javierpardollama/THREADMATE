@@ -10,8 +10,8 @@
   "license": "MIT",
   "description": "",
   "dependencies": {
-    "async": "^3.2.4",
-    "newman": "^6.0.0",
+    "async": "^3.2.5",
+    "newman": "^6.1.0",
     "path": "^0.12.7"
   }
 }
